@@ -1,0 +1,11 @@
+INSIGHTS FROM SUPERSTORE SALES DASHBOARD
+
+1️⃣ The West region recorded the highest overall sales, contributing approximately one-third of the total revenue, while the South region showed the lowest sales volume.
+
+2️⃣ Among all product categories, the Technology category generated the maximum sales share, followed by Office Supplies and Furniture.
+
+3️⃣ The monthly trend indicates a steady increase in sales throughout the year, with noticeable peaks during Q3 and Q4 — suggesting seasonal demand.
+
+4️⃣ The cumulative sales line shows a consistent upward trajectory, confirming continuous business growth and no major sales decline periods.
+
+5️⃣ Average sales per order remained stable across all regions, reflecting balanced performance and effective pricing strategy.
